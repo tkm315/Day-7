@@ -20,3 +20,8 @@ open-source relational database management system (RDBMS)
 install it . connect via psql and pgadmin 4
 
 restore a data into "dvdrental" database via psql and pgadmin
+
+learned this commans =     SELECT
+    Column Aliases
+    ORDER BY
+    SELECT DISTINCT
