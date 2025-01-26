@@ -41,3 +41,10 @@ fetch is a better choice due to its standardization.
 
 line_3 (Postgresql) ======  end of FETCH<Filtering Data<https://neon.tech/postgresql/postgresql-tutorial/
 ---------------------------------------------------------------------------------------------------------
+
+project : Go module in git !
+------------------------------
+
+project explained here : 
+
+project repo is here : https://github.com/tkm315/factorial
