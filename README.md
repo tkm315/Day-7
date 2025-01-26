@@ -27,3 +27,6 @@ learned this commans =     SELECT
     SELECT DISTINCT
 
     WHERE can combined with something that in WHERE.csv(the file in top of this page)
+
+AND : Use the AND operator to combine multiple boolean expressions.
+
