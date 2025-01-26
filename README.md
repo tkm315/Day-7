@@ -16,3 +16,7 @@ open-source relational database management system (RDBMS)
  from simple web apps to large-scale data warehousing and analytics solutions can use Postgresql
 
  learn from here : https://neon.tech/postgresql/tutorial
+
+install it . connect via psql and pgadmin 4
+
+restore a data into "dvdrental" database via psql and pgadmin
