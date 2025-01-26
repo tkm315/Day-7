@@ -30,3 +30,4 @@ learned this commans =     SELECT
 
 AND : Use the AND operator to combine multiple boolean expressions.
 
+OR : Use the OR operator to combine multiple boolean expressions.
