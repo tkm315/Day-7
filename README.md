@@ -45,6 +45,6 @@ line_3 (Postgresql) ======  end of FETCH<Filtering Data<https://neon.tech/postgr
 project : Go module in git !
 ------------------------------
 
-project explained here : 
+project explained here : https://github.com/tkm315/Day-7/blob/main/factorial_project_explain
 
 project repo is here : https://github.com/tkm315/factorial
