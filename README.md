@@ -14,3 +14,5 @@ PostgreSQL
 open-source relational database management system (RDBMS)
 
  from simple web apps to large-scale data warehousing and analytics solutions can use Postgresql
+
+ learn from here : https://neon.tech/postgresql/tutorial
