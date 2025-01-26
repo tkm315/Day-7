@@ -38,3 +38,6 @@ FETCH vs LIMIT wich one is better ? If you are working on PostgreSQL and are not
 you can use whichever is more convenient. 
 However, if your projects may also interact with other databases,
 fetch is a better choice due to its standardization.
+
+line_3 (Postgresql) ======  end of FETCH<Filtering Data<https://neon.tech/postgresql/postgresql-tutorial/
+---------------------------------------------------------------------------------------------------------
