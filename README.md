@@ -25,3 +25,5 @@ learned this commans =     SELECT
     Column Aliases
     ORDER BY
     SELECT DISTINCT
+
+    WHERE can combined with something that in WHERE.csv(the file in top of this page)
