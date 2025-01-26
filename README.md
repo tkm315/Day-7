@@ -33,3 +33,8 @@ AND : Use the AND operator to combine multiple boolean expressions.
 OR : Use the OR operator to combine multiple boolean expressions.
 
 LIMIT , OFFSET : Use the PostgreSQL LIMIT OFFSET clause to retrieve a subset of rows returned by a query.
+
+FETCH vs LIMIT wich one is better ? If you are working on PostgreSQL and are not concerned about SQL standard compatibility, 
+you can use whichever is more convenient. 
+However, if your projects may also interact with other databases,
+fetch is a better choice due to its standardization.
