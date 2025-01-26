@@ -31,3 +31,5 @@ learned this commans =     SELECT
 AND : Use the AND operator to combine multiple boolean expressions.
 
 OR : Use the OR operator to combine multiple boolean expressions.
+
+LIMIT , OFFSET : Use the PostgreSQL LIMIT OFFSET clause to retrieve a subset of rows returned by a query.
